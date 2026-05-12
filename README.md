@@ -22,16 +22,69 @@ Developed an IoT-based smart climate monitoring system for real-time temperature
 The system uses a DHT22 sensor connected to a Raspberry Pi Pico W to collect temperature and humidity data in real time. The collected data is processed using Python and displayed on a React-based dashboard, where users can monitor live readings and historical trends for climate control analysis.
 
 ## Running The Project
-1. Connect the DHT22 sensor to the Raspberry Pi Pico W.
+### Step 1: Clone the Repository
 
-2. Install the required dependencies.
+Clone the project repository to your local system.
 
-3. Run the Python script for sensor data collection.
+```bash
+git clone <repository-link>
+cd intelligent-climate-control
+```
+
+### Step 2: Install Frontend Dependencies
+
+Install all required Node.js packages for the React frontend.
+
+```bash
+npm install
+```
+
+---
+
+### Step 3: Install Python Dependencies
+
+Install the required Python libraries for sensor data handling.
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+### Step 4: Connect the Hardware
+
+- Connect the DHT22 sensor to the Raspberry Pi Pico W
+- Ensure all wiring connections are correct
+- Power on the Raspberry Pi Pico W
+
+---
+
+### Step 5: Run the Python Backend
+
+Start the Python script to collect temperature and humidity data from the sensor.
 
 ```bash
 python main.py
-Open the frontend project folder and install dependencies.
-npm install
-Start the React application.
+```
+
+---
+
+### Step 6: Start the React Frontend
+
+Run the React application to open the monitoring dashboard.
+
+```bash
 npm start
-Open the dashboard in the browser to view real-time temperature and humidity monitoring data.
+```
+
+---
+
+### Step 7: Open the Application
+
+Open your browser and visit:
+
+```bash
+http://localhost:3000
+```
+
+The dashboard will display real-time temperature and humidity data along with historical trends.
