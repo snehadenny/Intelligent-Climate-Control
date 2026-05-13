@@ -110,7 +110,7 @@ Shows crop nutrient distribution levels containing potassium (K), phosphorus (P)
 ![image alt](https://github.com/snehadenny/Intelligent-Climate-Control/blob/5f8da2a0e2b3fccce00fe5c21be57ccc58b0a26f/output%204.jpeg)
 
 ## System Architecture 
-### Parcing C
+### Parcing Architecture
 ![image alt](https://github.com/snehadenny/Intelligent-Climate-Control/blob/39af7764933f78a78977c8d1412b12adf2dae3c8/parsing%20architecture.jpeg)
 
 ### Ranking Architecture
