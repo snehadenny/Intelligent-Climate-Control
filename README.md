@@ -93,5 +93,5 @@ The dashboard will display real-time temperature and humidity data along with hi
 
 ![image alt](https://github.com/snehadenny/Intelligent-Climate-Control/blob/88825fb57af6f65d1e257cf0a6644f2713bc1739/output%201.jpeg)
 ![image alt](https://github.com/snehadenny/Intelligent-Climate-Control/blob/a337df6b49043798807e2459e78bcc34224f3aed/output%202.jpeg)
-![image alt]()
+![image alt](https://github.com/snehadenny/Intelligent-Climate-Control/blob/68d2d00a18b293f060cfe1048925450e5eac9316/output%203.jpeg)
 ![image alt]()
