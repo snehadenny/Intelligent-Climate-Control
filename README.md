@@ -90,9 +90,21 @@ The dashboard will display real-time temperature and humidity data along with hi
 
 
 ## Project Outputs
+### This shows the temperature and humidity of the crop cultivated along with the location
 
 ![image alt](https://github.com/snehadenny/Intelligent-Climate-Control/blob/88825fb57af6f65d1e257cf0a6644f2713bc1739/output%201.jpeg)
-This shows the temperature and humidity of the crop cultivated along with the location
+
+### Crop prediction -
+Display the suitable crops for that particular temperature range along with their rain and pH level requirements by the crop.
+Display the suitable crops for that particular temperature range along with their rain and pH level requirements by the crop.
+
 ![image alt](https://github.com/snehadenny/Intelligent-Climate-Control/blob/a337df6b49043798807e2459e78bcc34224f3aed/output%202.jpeg)
+
+### Sensor Analytics-
+Active sensors and their data
+
 ![image alt](https://github.com/snehadenny/Intelligent-Climate-Control/blob/68d2d00a18b293f060cfe1048925450e5eac9316/output%203.jpeg)
+
+### Recommendation engine analytics-
+Shows crop nutrient distribution levels containing potassium (K), phosphorus (P), and Nitrogen (N)
 ![image alt](https://github.com/snehadenny/Intelligent-Climate-Control/blob/5f8da2a0e2b3fccce00fe5c21be57ccc58b0a26f/output%204.jpeg)
