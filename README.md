@@ -92,6 +92,7 @@ The dashboard will display real-time temperature and humidity data along with hi
 ## Project Outputs
 
 ![image alt](https://github.com/snehadenny/Intelligent-Climate-Control/blob/88825fb57af6f65d1e257cf0a6644f2713bc1739/output%201.jpeg)
+This shows the temperature and humidity of the crop cultivated along with the location
 ![image alt](https://github.com/snehadenny/Intelligent-Climate-Control/blob/a337df6b49043798807e2459e78bcc34224f3aed/output%202.jpeg)
 ![image alt](https://github.com/snehadenny/Intelligent-Climate-Control/blob/68d2d00a18b293f060cfe1048925450e5eac9316/output%203.jpeg)
 ![image alt](https://github.com/snehadenny/Intelligent-Climate-Control/blob/5f8da2a0e2b3fccce00fe5c21be57ccc58b0a26f/output%204.jpeg)
