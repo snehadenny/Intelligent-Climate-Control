@@ -87,3 +87,16 @@ http://localhost:3000
 ```
 
 The dashboard will display real-time temperature and humidity data along with historical trends.
+
+
+## Project Outputs
+
+<p align="center">
+  <img src="output1.png" width="45%">
+  <img src="output2.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="output3.png" width="45%">
+  <img src="output4.png" width="45%">
+</p>
