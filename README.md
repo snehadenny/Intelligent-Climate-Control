@@ -108,3 +108,13 @@ Active sensors and their data
 ### Recommendation engine analytics-
 Shows crop nutrient distribution levels containing potassium (K), phosphorus (P), and Nitrogen (N)
 ![image alt](https://github.com/snehadenny/Intelligent-Climate-Control/blob/5f8da2a0e2b3fccce00fe5c21be57ccc58b0a26f/output%204.jpeg)
+
+## System Architecture 
+### Parcing C
+![image alt](https://github.com/snehadenny/Intelligent-Climate-Control/blob/39af7764933f78a78977c8d1412b12adf2dae3c8/parsing%20architecture.jpeg)
+
+### Ranking Architecture
+![image alt]()
+
+### Use Case Diagram
+![image alt]()
