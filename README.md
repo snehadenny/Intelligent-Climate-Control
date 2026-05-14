@@ -1,13 +1,31 @@
 # Intelligent-Climate-Control
 Developed an IoT-based smart climate monitoring system for real-time temperature and humidity analysis. The project helps predict suitable crop conditions through sensor data processing and database integration.
 
+## Prediction logic 
+The crop recommendation engine uses:
+
+- Euclidean Distance
+- Cosine Similarity
+
 ## Technologies
-- Raspberry Pi Pico W  
-- DHT22 Sensor  
-- Python  
-- React.js  
-- JavaScript  
-- IoT Sensors 
+### Frontend
+React.js
+- Tailwind CSS
+- JavaScript
+### Backend
+Node.js
+Express.js
+### Database
+- SQLite
+### Hardware
+- Raspberry Pi Pico W
+- DHT22 Sensor
+### Libraries & APIs
+- Axios
+- CSV Parser
+- QRCode Generator
+- OpenWeather API
+
 ## Features
 - Real-time temperature monitoring
 - Humidity monitoring
