@@ -2,12 +2,12 @@
 Developed an IoT-based smart climate monitoring system for real-time temperature and humidity analysis. The project helps predict suitable crop conditions through sensor data processing and database integration.
 
 ## Prediction logic 
-The crop recommendation engine uses:
+   The crop recommendation engine uses:
 
 - Euclidean Distance
 - Cosine Similarity
 
-## Technologies
+# Technologies
 ### Frontend
 - React.js
 - Tailwind CSS
@@ -26,7 +26,7 @@ The crop recommendation engine uses:
 - QRCode Generator
 - OpenWeather API
 
-## Features
+# Features
 - Real-time temperature monitoring
 - Humidity monitoring
 - Live data visualization dashboard
@@ -107,7 +107,7 @@ http://localhost:3000
 The dashboard will display real-time temperature and humidity data along with historical trends.
 
 
-## Project Outputs
+# Project Outputs
 ### This shows the temperature and humidity of the crop cultivated along with the location
 
 ![image alt](https://github.com/snehadenny/Intelligent-Climate-Control/blob/88825fb57af6f65d1e257cf0a6644f2713bc1739/output%201.jpeg)
@@ -127,7 +127,7 @@ Active sensors and their data
 Shows crop nutrient distribution levels containing potassium (K), phosphorus (P), and Nitrogen (N)
 ![image alt](https://github.com/snehadenny/Intelligent-Climate-Control/blob/5f8da2a0e2b3fccce00fe5c21be57ccc58b0a26f/output%204.jpeg)
 
-## System Architecture 
+# System Architecture 
 ### Parcing Architecture
 ![image alt](https://github.com/snehadenny/Intelligent-Climate-Control/blob/39af7764933f78a78977c8d1412b12adf2dae3c8/parsing%20architecture.jpeg)
 
