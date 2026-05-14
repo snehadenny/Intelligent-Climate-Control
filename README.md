@@ -9,12 +9,12 @@ The crop recommendation engine uses:
 
 ## Technologies
 ### Frontend
-React.js
+- React.js
 - Tailwind CSS
 - JavaScript
 ### Backend
-Node.js
-Express.js
+- Node.js
+- Express.js
 ### Database
 - SQLite
 ### Hardware
